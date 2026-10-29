@@ -1,0 +1,2 @@
+# daily-ai-project-2026-10-29-multimodal-outfit-assistant
+A privacy‑first web service that takes a user‑uploaded clothing image and a short occasion description, then recommends visually and contextually compatible items from a catalog using discrete visual token embeddings aligned with language. The MVP delivers a fast, token‑based similarity search and a concise style explanation. Build-it-yourself AI/M
